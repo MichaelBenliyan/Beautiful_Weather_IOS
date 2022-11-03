@@ -1,1 +1,7 @@
-# Beautiful_Weather_IOS
+# Beautiful Weather IOS
+
+
+
+#Screenshots
+![LightMode](Screenshots/LightMode.PNG)
+![DarkMode](Screenshots/DarkMode.PNG)
